@@ -6,7 +6,11 @@ This R simulation seeks to model the complex interactions and probabilities inhe
 
 ## [Official Report](https://github.com/VictoriaOlejarz/Tennis/blob/main/stat%20321%20sim%20report.pdf)
 
+## [R Code Appendix](https://github.com/VictoriaOlejarz/Tennis/blob/main/appendix.pdf)
+
 
 Victoria Olejarz 
+
 Peyton Pepkowski 
+
 Zuzu Trottier
