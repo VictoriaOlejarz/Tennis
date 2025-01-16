@@ -4,6 +4,7 @@ This simulation project in R models the scoring system and outcomes of a tennis 
 
 This R simulation seeks to model the complex interactions and probabilities inherent in a tennis match, providing insights into how different strategies and outcomes at the point level can influence the overall match result. By simulating various match scenarios, the project aims to explore the statistical distribution of possible outcomes and the impact of player performance at different stages of the match.
 
+## [Official Report](https://github.com/VictoriaOlejarz/Tennis/blob/main/stat%20321%20sim%20report.pdf)
 
 
 Victoria Olejarz 
